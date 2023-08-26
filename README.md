@@ -1,3 +1,2 @@
 # gilverse
-the website is terrible
--999999/10
+the website kinda sucks ngl
