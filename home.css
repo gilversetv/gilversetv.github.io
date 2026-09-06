@@ -2,11 +2,6 @@
     font-family: 'dihhfont';
     src: url('BBCReithSans_A_Bd.ttf');
 }
-
-html {
-cursor: url('/chud.png'), auto;
-}
-
 head {
 	background-color: #000000;
 	color: white;
